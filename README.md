@@ -1,8 +1,8 @@
-# 📱 Smartphone Review Regression Analysis Project
+# Smartphone Review Regression Analysis Project
 
 Regression analysis of a **50,000-record smartphone review dataset** to examine how camera, battery, performance, design, and display ratings influence overall customer ratings.
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes a **mobile phone review dataset containing 50,000 observations and 25 variables** to understand how different smartphone specifications influence overall customer ratings.
 
